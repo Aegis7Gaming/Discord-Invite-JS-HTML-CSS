@@ -38,7 +38,7 @@ As a huge fan of minimalist design and a fan of the Invite box, I thought it wou
     </script>
     </body>
     ```
-1. Place this specific <div> wherever you want your invite to appear:
+1. Place this specific `<div>` wherever you want your invite to appear:
     ```html
     <div id="discordInviteBox"></div>
     ```
