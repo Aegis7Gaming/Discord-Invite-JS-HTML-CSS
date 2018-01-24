@@ -60,7 +60,7 @@ You can change the button text of the Join action to something else, as well as 
 You can change the introText to something else.
 
 `hideIntro` (false)
-You can hide the intro text (forced when in miniMode)  
+You can hide the intro text
 
 ## Aegis7 Gaming
 A gaming community with thousands of Discord users from all across the globe.  
