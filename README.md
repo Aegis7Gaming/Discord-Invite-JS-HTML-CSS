@@ -59,7 +59,7 @@ You can change the button text of the Join action to something else, as well as 
 `introText` ('YOU\'VE BEEN INVITED TO A SERVER')  
 You can change the introText to something else.
 
-`hideIntro` (false)
+`hideIntro` (false)  
 You can hide the intro text
 
 ## Aegis7 Gaming
