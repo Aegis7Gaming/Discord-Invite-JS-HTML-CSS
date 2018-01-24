@@ -63,6 +63,7 @@ You can change the introText to something else.
 You can hide the intro text
 
 ## Aegis7 Gaming
+<a href="https://aegis7.com"><img src="https://aegis7.com/ag7logo.png" width=200></a>  
 A gaming community with thousands of Discord users from all across the globe.  
 [Join us on Discord: https://ag7.gg]
 
