@@ -21,14 +21,14 @@ As a huge fan of minimalist design and a fan of the Invite box, I thought it wou
     ```html
     <head>
     ...
-    <link rel="stylesheet" href="/path/to/discordInvite.css"/>
+    <link rel="stylesheet" href="/path/to/discordInvite.min.css"/>
     </head>
     ```
  1. Include the JS file and initialise on the page:
     ```html
     <body>
     ...
-    <script src="/path/to/discordInvite.js"></script>
+    <script src="/path/to/discordInvite.min.js"></script>
     <script>
       discordInvite.init({
       inviteCode: 'DQtcGRy',
