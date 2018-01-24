@@ -14,7 +14,7 @@ Discord has this very minimlistic and practical invite box that tells users how 
 As a huge fan of minimalist design and a fan of the Invite box, I thought it would be a good idea to make it possible to embed this on websites instead of the widget provided by Discord or the other solutions in the wild.
 
 ## How to use
- 1. Download the files. (discordInvite.js, discordInvite.css)
+ 1. Download the files. (discordInvite.min.js, discordInvite.min.css)
  1. Upload the files to your web server.
  1. You will need an Invite Code that never expires from Discord.
  1. Include the CSS file in the head of the page:
@@ -69,3 +69,6 @@ A gaming community with thousands of Discord users from all across the globe.
 
 ## No Support, 'as is'.
 Please do not contact us for any support. We will do our best to provide updates when necessary and willing to accept pull requests but you should not expect us to fix issues for you, walk you through how to deploy this or anything of that nature.
+
+## Discord
+We are not affiliated in any way with Discord. We're just really big fans and we enjoy the platform! If at any time Discord and/or their staff tell us this isn't OK, we will take the script down. We're querying Discord servers and they can very well put this behind an Authentication layer, if this happens or the data is hidden or changed, this script will stop working; Please keep this in mind.
