@@ -104,7 +104,6 @@
     color:#fff
 }
 #discordInfo{
-    max-width:230px;
     align-items:stretch;
     justify-content:center;
     flex:1 1 auto;
