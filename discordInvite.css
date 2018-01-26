@@ -120,6 +120,9 @@
     font:normal normal 600 normal 16px/20px Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
     margin:0 0 4px
 }
+#serverNameBox:hover{
+    text-decoration:underline;
+}
 #status,#statusIndicators{
     font:normal normal 600 normal 12px/16px Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color:#72767d;
